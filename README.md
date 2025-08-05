@@ -6,12 +6,12 @@
 ## Skills
 #### Learning Java, C, Python and a bit of Go.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoM-e&layout=compact&theme=nord&border_radius=15)](https://github.com/TheoM-e/)
+[![Top Langs](https://github-readme-stats-nine-tau-54.vercel.app/api/top-langs/?username=TheoM-e&layout=compact&theme=nord&border_radius=15)](https://github.com/TheoM-e/)
 
 ## My projects
 
-<a href="https://github.com/TheoM-e/SuperCalc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheoM-e&repo=SuperCalc&show_owner=true&theme=nord&border_radius=15" />
+<a href="https://github.com/TheoM-e/gym-tool">
+  <img align="center" src="https://github-readme-stats-nine-tau-54.vercel.app/api/pin/?username=TheoM-e&repo=gym-tool&show_owner=true&theme=nord&border_radius=15" />
 </a>
 <a href="https://github.com/TheoM-e/Piscine42">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheoM-e&repo=Piscine42&show_owner=true&theme=nord&border_radius=15" />
