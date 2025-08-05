@@ -6,7 +6,7 @@
 ## Skills
 #### Building WebApp & SaaS. Learning Java, C, Python and a bit of Go.
 
-[![Top Langs](https://github-readme-stats-nine-tau-54.vercel.app/api/top-langs/?username=TheoM-e&layout=compact&theme=nord&border_radius=15&hide=html,purebasic,css)](https://github.com/TheoM-e/)
+[![Top Langs](https://github-readme-stats-nine-tau-54.vercel.app/api/top-langs/?username=TheoM-e&layout=compact&theme=nord&border_radius=15&hide=html,purebasic,css,groovy)](https://github.com/TheoM-e/)
 
 ## My projects
 
