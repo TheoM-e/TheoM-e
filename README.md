@@ -2,7 +2,7 @@
 ### I am a young french <img src="https://media0.giphy.com/media/x8r9ko36SAFSoMnFN1/giphy.gif?cid=790b7611659a542c656387ad297081e84810a66d8a897c0a&rid=giphy.gif&ct=g" width="17" height="12"> developer apprentice<br />
 
 [![stats](https://github-readme-stats-nine-tau-54.vercel.app/api?username=TheoM-e&show_icons=true&count_private=true&include_all_commits=true&theme=nord&hide=contribs&border_radius=15&show_owner=true)](https://github.com/TheoM-e/)<br />
-[![Streak](https://github-readme-streak-stats-gpfk65d6w-theom-es-projects.vercel.app/?user=theom-e&theme=nord)]
+[![Streak](https://github-readme-streak-stats-gpfk65d6w-theom-es-projects.vercel.app/?user=theom-e&theme=nord)](https://github.com/TheoM-e/)
 
 ## Skills
 #### Building WebApp & SaaS. Learning Java, C, Python and a bit of Go.
